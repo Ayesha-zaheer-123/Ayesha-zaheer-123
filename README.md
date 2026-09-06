@@ -59,7 +59,7 @@
 
 ### 📫 Connect with Me
 
-<p align="left"> <a href="mailto:ayeshazaheer899@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ayesha-zaheer-439499315/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"><i>⭐️ From <a href="https://github.com/Ayesha-zaheer-123">Ayesha-zaheer-123</a></i></p>
+<p align="left"> <a href="mailto:ayeshazaheer899@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ayesha-zaheer-439499315/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"><i>
 
 <!--
 **Ayesha-zaheer-123/Ayesha-zaheer-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
