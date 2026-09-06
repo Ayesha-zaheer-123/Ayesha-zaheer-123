@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ayesha Zaheer 👋</h1>
 
-<h3 align="center">BSSE Student | Aspiring Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">BSSE Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Learning+DSA+with+C%2B%2B;Building+with+HTML%2C+CSS+%26+JavaScript;Exploring+React+%26+Full+Stack+Dev;Aiming+to+Freelance+with+AI+Integration" alt="Typing SVG" />
@@ -11,11 +11,8 @@
 ### 🚀 About Me
 
 - 🎓 BSSE student at **University of Agriculture Faisalabad (UAF)**
-- 💻 Currently strengthening my **DSA** using **Striver's A2Z Sheet**
 - 🌐 Learning **Full-Stack Web Development** (HTML, CSS, JS → React → Next.js)
 - 🤖 Working towards **AI API integration** in web apps
-- 🎯 Goal: Become a strong freelance full-stack developer
-- 📍 Based in Faisalabad, Punjab, Pakistan
 
 ---
 
@@ -62,13 +59,7 @@
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="mailto:ayeshazaheer899@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/Ayesha-zaheer-123">Ayesha-zaheer-123</a></i></p>## Hi there 👋
+<p align="left"> <a href="mailto:ayeshazaheer899@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ayesha-zaheer-439499315/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"><i>⭐️ From <a href="https://github.com/Ayesha-zaheer-123">Ayesha-zaheer-123</a></i></p>
 
 <!--
 **Ayesha-zaheer-123/Ayesha-zaheer-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
