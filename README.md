@@ -3,7 +3,7 @@
 <h3 align="center">BSSE Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Learning+DSA+with+C%2B%2B;Building+with+HTML%2C+CSS+%26+JavaScript;Exploring+React+%26+Full+Stack+Dev;Aiming+to+Freelance+with+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Learning+DSA+with+C%2B%2B;Building+with+HTML%2C+CSS+%26+JavaScript;Exploring+React+%26+Full+Stack+Dev alt="Typing SVG" />
 </p>
 
 ---
